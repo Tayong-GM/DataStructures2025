@@ -6,5 +6,4 @@ stack.append(333)
 # Clear the entire stack
 stack.clear()
 
-
 print("Stack after clearing:", stack)  
